@@ -41,7 +41,7 @@ This project is a web application that summarizes text using AI. It's built with
 ---
 ## 🔗 Live Demo
 
-*([If you deploy your app to a service like Streamlit Community Cloud, Heroku, or Hugging Face Spaces, you would add the public link here.](https://anushadhirde-text-summarization-app-app-xfkno0.streamlit.app/))*
+*( [link here.](https://anushadhirde-text-summarization-app-app-xfkno0.streamlit.app/))*
 
 ---
 
